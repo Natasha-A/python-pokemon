@@ -30,7 +30,7 @@ Type Advantages: Stronger Pokemon - increase attack damage by half; Weaker Pokem
 
   ## Sample Views
   ---
-<img src="/Applications/Files/GitHub/python-pokemon/startPage.png" alt="drawing" width="100%"/>
+<img src="startPage.png" alt="drawing" width="100%"/>
 
-<img src="/Applications/Files/GitHub/python-pokemon/trainerRed.png" alt="drawing" width="100%"/>
+<img src="trainerRed.png" alt="drawing" width="100%"/>
 
